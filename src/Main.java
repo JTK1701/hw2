@@ -58,7 +58,7 @@ public class Main {
         var workHours = 640;
         var workTime = 8;
         var totalEmployees = workHours/workTime;
-        System.out.println("8 Задача");
+        System.out.println("8 Задача ");
         System.out.println("Всего сотрудников в компании - " + totalEmployees + " человек.");
 
         var moreEmployees = totalEmployees + 94;
