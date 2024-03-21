@@ -51,7 +51,7 @@ public class Main {
         System.out.println("Разница в весе боксеров составляет - " + weightDifference + "кг.");
 
         var modulo = secondBoxer % firstBoxer;
-        System.out.println("7 Задача ");
+        System.out.println("7 Задача");
         System.out.println(modulo);
 
 
